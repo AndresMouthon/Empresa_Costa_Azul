@@ -1693,7 +1693,8 @@ button {
 .button-secondary:active {
 	color: #000000;
 	background-color: #ffffff;
-	border-color: #ffffff;
+	border: 1px solid #000000;
+	
 }
 
 .button-secondary.button-ujarak::before {
@@ -6865,6 +6866,7 @@ html:not(.lt-ie10) .not-animated {
 .slideInUp {
 	-webkit-animation-name: slideInUp;
 	animation-name: slideInUp;
+	color: #000000;
 }
 
 @-webkit-keyframes slideInDown {
