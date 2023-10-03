@@ -3704,7 +3704,7 @@ p+.quote-classic {
 	content: '';
 	width: 72px;
 	height: 4px;
-	background: rgba(255, 255, 255, 0.6);
+	background: #0168b3;
 }
 
 .breadcrumbs-custom-path {
@@ -8520,7 +8520,7 @@ html.tablet .ui-to-top {
 }
 
 .rd-navbar-fixed .rd-navbar-nav-wrap {
-	color: #ffffff;
+	color: #000000;
 	background: #ffffff;
 	border: none;
 	box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
